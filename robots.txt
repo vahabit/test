@@ -43,7 +43,7 @@ Disallow: /*&filter_description=
 Disallow: /*?tracking=
 Disallow: /*&tracking=
 Disallow: /*?manufacturer
-
+Disallow: /produkciya
 
 Host: http://dimbuilding.com.ua
 Sitemap: http://dimbuilding.com.ua/sitemap.xml
